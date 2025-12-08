@@ -9,7 +9,7 @@ if (aiModel == "TeleBotAI") {
     const msg_err = "ERROR 0x06x5x46. " + "ERROR MESSAGE: " + "!!!DON'T CLOSE ME!!! ";
     alert(msg_err);
     alert(msg_err2);
-    window.location = "https://winnigames2024-original.github.io/__/ai/amandasoft.html?model=AmandaHackSoftware&tool=BesyashiySayt";
+    window.location.href = "https://winnigames2024-original.github.io/__/ai/amandasoft.html?model=AmandaHackSoftware&tool=BesyashiySayt";
   }
   else {
     cosnt msg_answer = "Your question: " + question + ", AI answer: " + answer;
