@@ -12,7 +12,7 @@ if (aiModel == "TeleBotAI") {
     window.location.href = "https://winnigames2024-original.github.io/__/ai/amandasoft.html?model=AmandaHackSoftware&tool=BesyashiySayt";
   }
   else {
-    cosnt msg_answer = "Your question: " + question + ", AI answer: " + answer;
+    const msg_answer = "Your question: " + question + ", AI answer: " + answer;
     alert(msg_answer);
   }
 }
